@@ -1,2 +1,3 @@
 # TestRepo
-Testing functionalities
+Testing functionalities 
+Adding new items to the console
